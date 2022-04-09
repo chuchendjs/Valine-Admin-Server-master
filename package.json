@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "leancloud-storage": "^3.0.0",
     "leanengine": "^3.0.0",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "nodemailer": "^4.0.1"
   },
   "devDependencies": {
